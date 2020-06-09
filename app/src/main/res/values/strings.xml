@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Desafio Android</string>
+    <string name="title">Personagens</string>
+    <string name="error">Ocorreu um erro ao carregar os itens</string>
+    <string name="visualizar_hq_mais_cara">Visualizar HQ mais cara</string>
+    <string name="hq_mais_cara">HQ Mais Cara</string>
+    <string name="pre_os">Preços</string>
+    <string name="text_price">
+        %1$s<font fgcolor='#fff'><b> %2$s</b></font>
+    </string>
+    <string name="not_prices">Não possui nenhum valor registrado</string>
+    <string name="digital_purchase">Preço de compra digital</string>
+    <string name="print_price">Preço de impressão</string>
+
+</resources>
